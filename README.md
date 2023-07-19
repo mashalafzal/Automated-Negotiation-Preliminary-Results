@@ -14,17 +14,12 @@ This replication package is organized according to the following structure.
 ```
 1. readme.md                  # the file you are reading right now.
 
-2. 
+2. Selected Venues.pdf        # a PDF file containing the list of selected venues
 
-3.1 output                    # a folder containing the working plots we used for exploring the extracted data and others figures used in the paper.
-3.1.1 horizontal.pdf          # a PDF file containing the contingency tables we used for the horizontal analysis.
-3.1.2 barcharts.pdf           # a PDF file containing the bar charts we used for explaining the research trends.
-3.1.3 searchProcess.pdf       # a PDF file containing the search process we used for performing the systematic mapping study.
-3.1.4 lifecycle.pdf           # a PDF file containing the life cycle of the automated negotiation agent.
+3. Primary Studies.pdf        # a PDF file containing the list of selected studies
 
-3.2 rawData                   # a folder containing the raw data extracted from each primary study.
-3.2.1 data.xlsx               # an Excel spreadsheet containing all the extracted data. There you will find a colum for each parameter of the data extraction form and a row for each primary study.
-3.2.2 data.csv                # a comma-separated-value textual file created by exporting the extractedData.xlsx Excel spreadsheet.
-
+4. data                       # a folder containing the raw data extracted from each primary study.
+4.1 data.xlsx                 # an Excel spreadsheet containing all the extracted data. There you will find a column for each parameter of the classification framework.
+4.2 data.csv                  # a comma-separated-value textual file created by exporting the Data.xlsx Excel spreadsheet.
 ```
  
