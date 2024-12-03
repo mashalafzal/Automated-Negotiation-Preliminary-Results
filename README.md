@@ -20,7 +20,6 @@ This replication package is organized according to the following structure.
 
 4. data                       # a folder containing the raw data extracted from each primary study.
 4.1 data.xlsx                 # an Excel spreadsheet containing all the extracted data. There you will find a column for each parameter of the classification framework.
-4.2 data.csv                  # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet.
-4.3 JASE_RL_data              # an Excel spreadsheet containing all the extracted data from the related work studies. 
+4.2 data.csv                  # a comma-separated-value textual file created by exporting the data.xlsx Excel spreadsheet. 
 ```
  
